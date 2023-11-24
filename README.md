@@ -1,2 +1,2 @@
-# 14530425-EA-s1
-A Coventry University coursework of the class "6006CEM Machine Learning and Related Applications".
+-	URL of the selected dataset
+  https://www.kaggle.com/datasets/teamincribo/stroke-prediction
